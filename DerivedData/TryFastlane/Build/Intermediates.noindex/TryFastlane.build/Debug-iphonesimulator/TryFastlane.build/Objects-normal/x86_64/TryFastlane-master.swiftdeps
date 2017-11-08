@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
-options: "64ca0b07c9f44fd95b7497dbaa33d4e1"
-build_time: [1510128064, 731285000]
-inputs:
-  "/Users/salyasev/git/TryFastlane/TryFastlane/ViewController.swift": [1510125246, 0]
-  "/Users/salyasev/git/TryFastlane/TryFastlane/AppDelegate.swift": [1510128056, 0]
