@@ -69,7 +69,7 @@ platform :ios do
     # You can notify your team in chat that a beta build has been uploaded
     slack(
        slack_url: "https://hooks.slack.com/services/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",
-       channel: "ios_dev",
+       channel: "ios-dev",
        message: "Successfully uploaded a beta release - see it at https://fabric.io/_/beta"
     )
 
